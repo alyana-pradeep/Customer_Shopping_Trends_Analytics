@@ -6,8 +6,6 @@ This project is perfect for:
 - 📚 Anyone learning Python, SQL, and Power BI
 - 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 
-
-
 ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
@@ -65,7 +63,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/alyanapradeepkumar/)
+💼 LinkedIn: [Alyana Pradeep kumar](https://www.linkedin.com/in/alyanapradeepkumar/)
 - Let’s connect professionally and grow your data career
 
 
